@@ -6,6 +6,8 @@ use App\Models\BookToReader;
 
 class BookToReaderRepository extends Repository
 { 
+    protected string $entityClass = BookToReader::class;
+    
     public function find(?int $bookToReaderId): ?BookToReader
     {
         return $this->findEntityById($bookToReaderId);

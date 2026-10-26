@@ -4,17 +4,36 @@ namespace App\Models;
 
 use App\Enums\{Country, Language};
 use DateTimeImmutable;
+use App\Annotations\{Entity, Column, Id};
 
+#[Entity(tableName: 'authors')]
 class Author 
 {
+    #[Id]
     private ?int $id = 0;
+    
+    #[Column(name: 'full_name')]
     private ?string $fullName = '';
+    
+    #[Column(name: 'birth_date')]
     private ?DateTimeImmutable $birthDate = null;
+    
+    #[Column(name: 'address')]
     private ?string $address = '';
+    
+    #[Column(name: 'phone')]
     private ?string $phone = '';
+    
+    #[Column(name: 'email')]
     private ?string $email = '';
+    
+    #[Column(name: 'language')]
     private ?Language $language = null;
+    
+    #[Column(name: 'country')]
     private ?Country $country = null;
+    
+    #[Column(name: 'janres', type: 'enum', arrayEnumClass: 'App\\Enums\\Janre')]
     private ?array $janres = [];
     
     public function getId(): ?int 

@@ -1,0 +1,773 @@
+[27-Jul-2026 09:37:55 UTC] Exception test, file D:\xampp\htdocs\book_store\index.php, line 5
+[27-Jul-2026 09:37:55 UTC] 
+[17-Sep-2026 09:24:59 UTC] Exception Trait "App\Repositories\RepositoryTrait" not found, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 8
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[17-Sep-2026 09:24:59 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:07:31 UTC] Exception Class "Author" does not exist, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 61
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:07:31 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:09:25 UTC] Exception Class "Author" does not exist, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 61
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:09:25 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Undefined property: App\Annotations\Entity::$name in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 62
+[30-Sep-2026 09:11:18 UTC] Exception App\Repositories\Utils\SqlUtils::getTableName(): Return value must be of type string, null returned, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 62
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:18 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:18 UTC] Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:11:50 UTC] Exception Cannot access private property App\Annotations\Entity::$tableName, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 62
+[30-Sep-2026 09:11:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:11:50 UTC] Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:12:13 UTC] Exception App\Repositories\Utils\SqlUtils::getJoinString(): Argument #1 ($entityClass) must be of type ReflectionClass, string given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 21, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 115
+[30-Sep-2026 09:12:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:12:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:12:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:12:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:12:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:12:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:12:13 UTC] Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Undefined array key "table" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 122
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Undefined array key "join_column" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 122
+[30-Sep-2026 09:13:43 UTC] Exception App\Repositories\Utils\SqlUtils::getJoinInfoArray(): Argument #1 ($entityClass) must be of type ReflectionClass, string given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 69, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 128
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:13:43 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Undefined array key "table" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 122
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Undefined array key "join_column" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 122
+[30-Sep-2026 09:14:16 UTC] Exception App\Repositories\Utils\SqlUtils::getJoinInfoArray(): Argument #1 ($entityClass) must be of type ReflectionClass, string given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 69, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 128
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:14:16 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Undefined array key "table" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 122
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Undefined array key "join_column" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 122
+[30-Sep-2026 09:16:44 UTC] Exception could not find driver, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 114
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:16:44 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:18:05 UTC] Exception could not find driver, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 114
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:18:05 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (Не найден указанный модуль), C:\php\ext\php_curl.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (Не найден указанный модуль), C:\php\ext\php_ftp.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (Не найден указанный модуль), C:\php\ext\php_mbstring.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (Не найден указанный модуль), C:\php\ext\php_mysqli.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (Не найден указанный модуль), C:\php\ext\php_odbc.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (Не найден указанный модуль), C:\php\ext\php_pdo_mysql.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:21:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (Не найден указанный модуль), C:\php\ext\php_pdo_odbc.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (Не найден указанный модуль), C:\php\ext\php_curl.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (Не найден указанный модуль), C:\php\ext\php_ftp.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (Не найден указанный модуль), C:\php\ext\php_mbstring.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (Не найден указанный модуль), C:\php\ext\php_mysqli.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (Не найден указанный модуль), C:\php\ext\php_odbc.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (Не найден указанный модуль), C:\php\ext\php_pdo_mysql.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (Не найден указанный модуль), C:\php\ext\php_pdo_odbc.dll (Не найден указанный модуль)) in Unknown on line 0
+[30-Sep-2026 09:23:53 UTC] Exception SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 114
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:23:53 UTC] Array,Array,Array,Array,Array,Array,Array
+[30-Sep-2026 09:24:28 UTC] Exception Non-static method App\Repositories\Utils\EntityUtils::rowsToEntities() cannot be called statically, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 98
+[30-Sep-2026 09:24:28 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:28 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:28 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:28 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:28 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:28 UTC] Array,Array,Array,Array,Array
+[30-Sep-2026 09:24:52 UTC] Exception Call to undefined method PDO::fetchAll(), file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 98
+[30-Sep-2026 09:24:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:24:52 UTC] Array,Array,Array,Array,Array
+[30-Sep-2026 09:27:30 UTC] Exception Too few arguments to function App\Repositories\Utils\EntityUtils::rowsToEntities(), 1 passed in D:\xampp\htdocs\book_store\src\Repositories\Repository.php on line 99 and exactly 3 expected, file D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php, line 8
+[30-Sep-2026 09:27:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:27:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:27:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:27:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:27:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:27:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[30-Sep-2026 09:27:30 UTC] Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Undefined variable $Property [ private ?int $id = 0 ]
+ in D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php on line 74
+[02-Oct-2026 17:29:48 UTC] Exception Call to a member function getAttributes() on null, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 74
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:29:48 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:31:00 UTC] Exception syntax error, unexpected namespaced name "App\Models\AuthorProxy", expecting identifier, file D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(11) : eval()'d code, line 1
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:31:00 UTC] Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:34:07 UTC] Exception Class "App\Models\App\Models\Author" not found, file D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(12) : eval()'d code, line 1
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:34:07 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Undefined variable $Property [ private ?int $id = 0 ]
+ in D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php on line 62
+[02-Oct-2026 17:36:16 UTC] Exception Call to a member function getAttributes() on null, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 62
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:36:16 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:37:12 UTC] Exception Too few arguments to function App\Repositories\Utils\ValueUtils::getValues(), 1 passed in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 51 and exactly 2 expected, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 12
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:37:12 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:39:36 UTC] Exception Object of class DateTimeImmutable could not be converted to string, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 91
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:39:36 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:41:20 UTC] Exception Too few arguments to function App\Repositories\Utils\ValueUtils::formatDateValue(), 1 passed in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 72 and exactly 2 expected, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 137
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:41:20 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:42:11 UTC] Exception Too few arguments to function App\Repositories\Utils\ValueUtils::setEmptyStringAsNull(), 1 passed in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 139 and exactly 2 expected, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 157
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:42:11 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:43:14 UTC] Exception Object of class App\Enums\Language could not be converted to string, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 91
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:43:14 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:44:32 UTC] Exception Object of class App\Enums\Language could not be converted to string, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 91
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:44:32 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:45:45 UTC] Exception Object of class App\Enums\Language could not be converted to string, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 91
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:45:45 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:47:11 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:47:11 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:47:11 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:47:11 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:47:11 UTC] PHP Warning:  Attempt to read property "value" on array in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:47:15 UTC] Exception SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 116
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:47:15 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Attempt to read property "value" on string in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Attempt to read property "value" on array in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 76
+[02-Oct-2026 17:48:21 UTC] Exception SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ru_RU' in 'field list', file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 106
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:48:21 UTC] Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:52:13 UTC] Exception Call to undefined method App\Annotations\Column::getType(), file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 76
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:52:13 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:53:25 UTC] Exception ReflectionClass::__construct(): Argument #1 ($objectOrClass) must be of type object|string, array given, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 76
+[02-Oct-2026 17:53:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:53:26 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:54:23 UTC] Exception SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ru_RU' in 'field list', file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 106
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:54:23 UTC] Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:55:32 UTC] Exception App\Repositories\Utils\EntityUtils::rowToEntity(): Argument #1 ($row) must be of type object, array given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 10, file D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php, line 13
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:55:32 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:56:48 UTC] Exception Too few arguments to function App\Repositories\Utils\EntityUtils::rowToEntity(), 2 passed in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 10 and exactly 3 expected, file D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php, line 13
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:56:48 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:57:12 UTC] Exception App\Models\Author::setBirthDate(): Argument #1 ($birthDate) must be of type ?DateTimeImmutable, false given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 37, file D:\xampp\htdocs\book_store\src\Models\Author.php, line 66
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:57:12 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 17:58:44 UTC] Exception App\Models\Author::setLanguage(): Argument #1 ($language) must be of type ?App\Enums\Language, string given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 37, file D:\xampp\htdocs\book_store\src\Models\Author.php, line 111
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 17:58:44 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Undefined variable $propertyType in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 218
+[02-Oct-2026 18:00:36 UTC] Exception Unsupported operand types: null - string, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 218
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:36 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 18:00:52 UTC] Exception App\Models\Author::setLanguage(): Argument #1 ($language) must be of type ?App\Enums\Language, string given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 37, file D:\xampp\htdocs\book_store\src\Models\Author.php, line 111
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:00:52 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[02-Oct-2026 18:01:31 UTC] Exception App\Models\Author::setLanguage(): Argument #1 ($language) must be of type ?App\Enums\Language, string given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 37, file D:\xampp\htdocs\book_store\src\Models\Author.php, line 111
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[02-Oct-2026 18:01:31 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 15:57:07 UTC] PHP Notice:  Only variables should be passed by reference in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 72
+[03-Oct-2026 15:57:07 UTC] Exception App\Repositories\Utils\SqlUtils::columnAndValueToWhereStr(): Argument #2 ($entityProperty) must be of type App\Repositories\Utils\ReflectionProperty, ReflectionProperty given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 85, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 98
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:57:07 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 15:58:19 UTC] PHP Notice:  Only variables should be passed by reference in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 72
+[03-Oct-2026 15:58:19 UTC] Exception App\Repositories\Utils\ValueUtils::formatValueForColumn(): Argument #2 ($columnAttribute) must be of type App\Annotations\Column, null given, called in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 102, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 63
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 15:58:19 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 15:59:27 UTC] PHP Notice:  Only variables should be passed by reference in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 72
+[03-Oct-2026 15:59:27 UTC] PHP Notice:  Only variables should be passed by reference in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php on line 10
+[03-Oct-2026 16:02:55 UTC] PHP Fatal error:  Cannot redeclare class App\Models\AuthorProxy (previously declared in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code:1) in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17): eval()
+#1 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Auth...')
+#2 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Author), 'App\\Models\\Auth...')
+#3 D:\xampp\htdocs\book_store\src\Repositories\AuthorRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Author))
+#4 D:\xampp\htdocs\book_store\src\Services\AuthorService.php(33): App\Repositories\AuthorRepository->save(Object(App\Models\Author))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(82): App\Services\AuthorService->addOrEditAuthor(Object(App\Dtos\AddOrEditAuthorDto))
+#6 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(4)
+#7 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#8 {main}
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Undefined variable $Property [ private ?int $id = 0 ]
+ in D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php on line 174
+[03-Oct-2026 16:04:47 UTC] Exception Call to a member function getAttributes() on null, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 174
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:04:47 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Attempt to read property "name" on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php on line 117
+[03-Oct-2026 16:21:49 UTC] Exception Class "App\Repositories\Utils\StringUtils" not found, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 120
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:21:49 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:22:41 UTC] Exception Class "App\Repositories\Utils\StringUtils" not found, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 111
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:22:41 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:23:13 UTC] Exception Class "Utils\StringUtils" not found, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 112
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:23:13 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:32:20 UTC] Exception App\Repositories\Utils\ValueUtils::getIdAttribute(): Return value must be of type ?App\Annotations\Column, App\Annotations\Id returned, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ValueUtils.php, line 182
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:32:20 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:33:25 UTC] Exception SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:33:25 UTC] Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Undefined array key "" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Trying to access array offset on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:36:19 UTC] Exception App\Repositories\Utils\ColumnUtils::getJoinColumnAttribute(): Return value must be of type ?App\Annotations\Column, App\Annotations\JoinColumn returned, file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 81
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:36:19 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Undefined array key "" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Trying to access array offset on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:37:11 UTC] Exception Cannot access private property App\Annotations\JoinColumn::$name, file D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php, line 220
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:11 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Undefined array key "" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Trying to access array offset on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Undefined array key "" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Trying to access array offset on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 218
+[03-Oct-2026 16:37:55 UTC] Exception SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE t1.id = 1' at line 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 99
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[03-Oct-2026 16:37:55 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[03-Oct-2026 16:43:35 UTC] PHP Warning:  Undefined array key "" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 215
+[03-Oct-2026 16:43:35 UTC] PHP Warning:  Trying to access array offset on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 215
+[03-Oct-2026 16:43:35 UTC] PHP Warning:  Undefined array key "" in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 215
+[03-Oct-2026 16:43:35 UTC] PHP Warning:  Trying to access array offset on null in D:\xampp\htdocs\book_store\src\Repositories\Utils\SqlUtils.php on line 215
+[07-Oct-2026 17:47:55 UTC] PHP Fatal error:  Declaration of App\Models\BookProxy::getAuthor() must be compatible with App\Models\Book::getAuthor(): ?App\Models\Author in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Book')
+#1 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Book), 'App\\Models\\Book...')
+#2 D:\xampp\htdocs\book_store\src\Repositories\BookRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Book))
+#3 D:\xampp\htdocs\book_store\src\Services\BookService.php(40): App\Repositories\BookRepository->save(Object(App\Models\Book))
+#4 D:\xampp\htdocs\book_store\src\Services\MainService.php(113): App\Services\BookService->addOrEditBook(Object(App\Dtos\AddOrEditBookDto))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(8)
+#6 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#7 {main}
+[07-Oct-2026 17:50:01 UTC] PHP Fatal error:  Could not check compatibility between App\Models\BookProxy::getAuthor(): App\Models\App\Models\Author and App\Models\Book::getAuthor(): ?App\Models\Author, because class App\Models\App\Models\Author is not available in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17): eval()
+#1 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Book')
+#2 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Book), 'App\\Models\\Book...')
+#3 D:\xampp\htdocs\book_store\src\Repositories\BookRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Book))
+#4 D:\xampp\htdocs\book_store\src\Services\BookService.php(40): App\Repositories\BookRepository->save(Object(App\Models\Book))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(113): App\Services\BookService->addOrEditBook(Object(App\Dtos\AddOrEditBookDto))
+#6 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(8)
+#7 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#8 {main}
+[07-Oct-2026 17:51:46 UTC] PHP Fatal error:  Could not check compatibility between App\Models\BookProxy::getAuthor(): App\Models\App\Models\App\Models\Author and App\Models\Book::getAuthor(): ?App\Models\Author, because class App\Models\App\Models\App\Models\Author is not available in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17): eval()
+#1 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Book')
+#2 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Book), 'App\\Models\\Book...')
+#3 D:\xampp\htdocs\book_store\src\Repositories\BookRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Book))
+#4 D:\xampp\htdocs\book_store\src\Services\BookService.php(40): App\Repositories\BookRepository->save(Object(App\Models\Book))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(113): App\Services\BookService->addOrEditBook(Object(App\Dtos\AddOrEditBookDto))
+#6 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(8)
+#7 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#8 {main}
+[07-Oct-2026 17:52:44 UTC] PHP Fatal error:  Could not check compatibility between App\Models\BookProxy::getAuthor(): App\Models\App\Models\App\Models\Author and App\Models\Book::getAuthor(): ?App\Models\Author, because class App\Models\App\Models\App\Models\Author is not available in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17): eval()
+#1 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Book')
+#2 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Book), 'App\\Models\\Book...')
+#3 D:\xampp\htdocs\book_store\src\Repositories\BookRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Book))
+#4 D:\xampp\htdocs\book_store\src\Services\BookService.php(40): App\Repositories\BookRepository->save(Object(App\Models\Book))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(113): App\Services\BookService->addOrEditBook(Object(App\Dtos\AddOrEditBookDto))
+#6 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(8)
+#7 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#8 {main}
+[07-Oct-2026 17:53:40 UTC] PHP Fatal error:  Could not check compatibility between App\Models\BookProxy::getAuthor(): App\Models\App\Models\Author and App\Models\Book::getAuthor(): ?App\Models\Author, because class App\Models\App\Models\Author is not available in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17): eval()
+#1 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Book')
+#2 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Book), 'App\\Models\\Book...')
+#3 D:\xampp\htdocs\book_store\src\Repositories\BookRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Book))
+#4 D:\xampp\htdocs\book_store\src\Services\BookService.php(40): App\Repositories\BookRepository->save(Object(App\Models\Book))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(113): App\Services\BookService->addOrEditBook(Object(App\Dtos\AddOrEditBookDto))
+#6 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(8)
+#7 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#8 {main}
+[07-Oct-2026 17:56:15 UTC] PHP Fatal error:  Could not check compatibility between App\Models\BookProxy::getAuthor(): App\Models\App\Models\Author and App\Models\Book::getAuthor(): ?App\Models\Author, because class App\Models\App\Models\Author is not available in D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17) : eval()'d code on line 1
+Stack trace:
+#0 D:\xampp\htdocs\book_store\src\Repositories\Utils\LazyLoadingUtils.php(17): eval()
+#1 D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php(47): App\Repositories\Utils\LazyLoadingUtils::makeProxyClass('App\\Models\\Book')
+#2 D:\xampp\htdocs\book_store\src\Repositories\Repository.php(74): App\Repositories\Utils\EntityUtils::proxyToEntity(Object(App\Models\Book), 'App\\Models\\Book...')
+#3 D:\xampp\htdocs\book_store\src\Repositories\BookRepository.php(23): App\Repositories\Repository->saveEntity(Object(App\Models\Book))
+#4 D:\xampp\htdocs\book_store\src\Services\BookService.php(40): App\Repositories\BookRepository->save(Object(App\Models\Book))
+#5 D:\xampp\htdocs\book_store\src\Services\MainService.php(113): App\Services\BookService->addOrEditBook(Object(App\Dtos\AddOrEditBookDto))
+#6 D:\xampp\htdocs\book_store\src\Services\MainService.php(25): App\Services\MainService->processAction(8)
+#7 D:\xampp\htdocs\book_store\index.php(7): App\Services\MainService->start()
+#8 {main}
+[07-Oct-2026 17:57:10 UTC] Exception Call to undefined function App\Repositories\replace(), file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 150
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:57:10 UTC] Array,Array,Array,Array,Array,Array,Array
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Undefined array key "App\Models\Author" in D:\xampp\htdocs\book_store\src\Repositories\Repository.php on line 151
+[07-Oct-2026 17:58:23 UTC] Exception Call to a member function existsById() on null, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 153
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 17:58:23 UTC] Array,Array,Array,Array,Array,Array,Array
+[07-Oct-2026 18:00:16 UTC] Exception Undefined constant "App\Repositories\Utils\columnAttribute", file D:\xampp\htdocs\book_store\src\Repositories\Utils\ColumnUtils.php, line 105
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:00:16 UTC] Array,Array,Array,Array,Array,Array,Array,Array,Array
+[07-Oct-2026 18:01:10 UTC] Exception SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list', file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[07-Oct-2026 18:01:10 UTC] Array,Array,Array,Array,Array,Array,Array
+[08-Oct-2026 13:26:39 UTC] Exception SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xD1\x84\xD0\xB2\xD1\x84...' for column `book_library`.`books`.`name` at row 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[08-Oct-2026 13:26:39 UTC] Array,Array,Array,Array,Array,Array,Array
+[12-Oct-2026 12:02:57 UTC] Exception SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xD1\x84\xD0\xB2\xD1\x84...' for column `book_library`.`readers`.`full_name` at row 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:02:57 UTC] Array,Array,Array,Array,Array,Array,Array
+[12-Oct-2026 12:04:51 UTC] Exception SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xD1\x84\xD0\xB2\xD1\x84...' for column `book_library`.`readers`.`full_name` at row 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:04:51 UTC] Array,Array,Array,Array,Array,Array,Array
+[12-Oct-2026 12:05:55 UTC] Exception SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xD1\x84\xD0\xB2\xD1\x84...' for column `book_library`.`readers`.`address` at row 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:05:55 UTC] Array,Array,Array,Array,Array,Array,Array
+[12-Oct-2026 12:07:24 UTC] Exception SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.reader_id' in 'on clause', file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 99
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[12-Oct-2026 12:07:24 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[19-Oct-2026 10:17:30 UTC] Exception SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM readers t   WHERE t.id = 1' at line 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[19-Oct-2026 10:17:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[19-Oct-2026 10:17:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[19-Oct-2026 10:17:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[19-Oct-2026 10:17:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[19-Oct-2026 10:17:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[19-Oct-2026 10:17:30 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[19-Oct-2026 10:17:30 UTC] Array,Array,Array,Array,Array,Array
+[26-Oct-2026 07:41:51 UTC] Exception SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 117
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:41:51 UTC] Array,Array,Array,Array,Array,Array,Array,Array
+[26-Oct-2026 07:45:26 UTC] Exception SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xD0\xBF\xD0\xB0\xD0\xB2...' for column `book_library`.`authors`.`full_name` at row 1, file D:\xampp\htdocs\book_store\src\Repositories\Repository.php, line 107
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\book_store\error_handler.php on line 5
+[26-Oct-2026 07:45:26 UTC] Array,Array,Array,Array,Array,Array,Array
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56
+[26-Oct-2026 07:50:45 UTC] PHP Deprecated:  Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in D:\xampp\htdocs\book_store\src\Repositories\Utils\EntityUtils.php on line 56

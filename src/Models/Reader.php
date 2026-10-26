@@ -2,14 +2,27 @@
 
 namespace App\Models;
 use DateTimeImmutable;
+use App\Annotations\{Entity, Column, Id};
 
+#[Entity(tableName: 'readers')]
 class Reader 
 {
+    #[Id]
     private ?int $id = 0;
+    
+    #[Column(name: 'full_name')]
     private ?string $fullName = '';
+    
+    #[Column(name: 'birth_date')]
     private ?DateTimeImmutable $birthDate = null;
+    
+    #[Column(name: 'address')]
     private ?string $address = '';
+    
+    #[Column(name: 'phone')]
     private ?string $phone = '';
+    
+    #[Column(name: 'email')]
     private ?string $email = '';
     
     public function getId(): ?int 

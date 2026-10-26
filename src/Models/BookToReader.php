@@ -1,10 +1,17 @@
 <?php
 
 namespace App\Models;
+use App\Annotations\{Entity, Id, JoinColumn};
 
+#[Entity(tableName: 'books_to_readers')]
 class BookToReader {
+     #[Id]
      private ?int $id = 0;
+     
+     #[JoinColumn(name: 'book_id')]
      private ?Book $book = null;
+     
+     #[JoinColumn(name: 'reader_id')]
      private ?Reader $reader = null;
      
      public function getId(): ?int 

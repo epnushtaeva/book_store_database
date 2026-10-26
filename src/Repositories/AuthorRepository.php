@@ -5,7 +5,9 @@ namespace App\Repositories;
 use App\Models\Author;
 
 class AuthorRepository  extends Repository
-{   
+{ 
+    protected string $entityClass = Author::class;
+
     public function find(?int $authorId): ?Author
     {
         return $this->findEntityById($authorId);

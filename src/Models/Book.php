@@ -2,16 +2,33 @@
 
 namespace App\Models;
 use App\Enums\Janre;
+use App\Annotations\{Entity, Column, Id, JoinColumn};
 
+#[Entity(tableName: 'books')]
 class Book 
 {
+    #[Id]
     private ?int $id = 0;
+    
+    #[Column(name: 'name')]
     private ?string $name = '';
+    
+    #[Column(name: 'description')]
     private ?string $description = '';
+    
+    #[Column(name: 'year')]
     private ?int $year = 0;
+    
+    #[Column(name: 'janre')]
     private ?Janre $janre = null;
+    
+    #[JoinColumn(name: 'author_id')]
     private ?Author $author = null;
+    
+    #[Column(name: 'free_count')]
     private ?int $freeCount = 0;
+    
+    #[Column(name: 'on_hand_count')]
     private ?int $onHandCount = 0;
     
     public function getId(): ?int 

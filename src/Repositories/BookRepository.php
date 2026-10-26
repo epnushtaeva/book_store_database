@@ -6,6 +6,8 @@ use App\Models\Book;
 
 class BookRepository extends Repository
 {   
+    protected string $entityClass = Book::class;
+    
     public function find(?int $bookId): ?Book
     {
         return $this->findEntityById($bookId);
